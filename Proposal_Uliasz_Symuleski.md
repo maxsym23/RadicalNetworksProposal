@@ -6,6 +6,7 @@ Replace sample info between [brackets] with your own!
 **Name**: Rebecca Uliasz and Max Symuleski  
 **Location**: PhD Program in Computational Media Arts and Cultures, Duke University, Durham, NC
 **Email**:  / max.symuleski@duke.edu 
+
 **Twitter**: [@janedoe]  
 **Repo**: [url to your code repository, aka GitHub, GitLab, Bitbucket, etc]   
 **Url(s)**:  / http://mjsymuleski.com  
