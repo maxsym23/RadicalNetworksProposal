@@ -5,11 +5,11 @@ Replace sample info between [brackets] with your own!
 **Format**: Talk  
 **Name**: Rebecca Uliasz and Max Symuleski  
 **Location**: PhD Program in Computational Media Arts and Cultures, Duke University, Durham, NC
-**Email**:  / max.symuleski@duke.ed 
+**Email**:  / max.symuleski@duke.edu 
 **Twitter**: [@janedoe]  
 **Repo**: [url to your code repository, aka GitHub, GitLab, Bitbucket, etc]   
-**Url(s)**: [https://example.com/]   
-**Consent to being photographed and on the livestream?**: [Yes / No]  
+**Url(s)**:  / http://mjsymuleski.com  
+**Consent to being photographed and on the livestream?**: [**Yes** / No]  
 
 
 
@@ -20,14 +20,26 @@ Replace sample info between [brackets] with your own!
 
 [https://profile-picture.jpg]  
 
-*Note: Format for bio picture should be PNG/JPG/GIF, 256x256px.*
+**Max Symuleski** is a PhD Candidate in the Computational Media, Arts & Cultures program at Duke University.  Their dissertation project Working Freedom: Visual and Material Cultures of Maintenance NYC, 1974-1990 develops a media theory of maintenance through and exploration of art and political economy in New York City during the period of the urban crisis.  Max’s background is in art history and theory, and they are broadly interested in the political aesthetics of maintenance in environmental and technical systems, from the modeling of climates to the repair of material infrastructures to the moderation digital social networks.  Max received an MA in historical studies from the New School for Social Research and repairs computers in their free time.  
 
+[https://mjsymuleski.com/images/maxsym_headshot.jpg]
+
+*Note: Format for bio picture should be PNG/JPG/GIF, 256x256px.*
 
 
 
 **Description**  
 
-[I am a proposal description. I will talk about this and that. This is some context for my work. These are some points I will make. My proposal definitely relates in some way to radio or networking technology. **Maximum 300 words**] 
+**Speculative Network Topologies: Modeling Futurity**
+
+What would a social network look like if it were modeled after the fluid dynamics of water? What about the electrically conductive properties of malleable and lightweight aluminum foil? The synthetic chemical structure of polymer plastics? How might networks be read through the tear and the fold, rather than through the edge and the node? How can we speculate on the properties of an immaterial social arrangement using concrete physical substrate? 
+
+This talk and audio/visual presentation will refer back to two historical moments in which radical media networks were conceived, implemented, and ultimately dissipated in order to weave speculative and open-ended models. Augmenting the form of the traditional academic talk through a live audio-visual essay, we will look back at the network imaginaries to the 1970s - a fleeting moment of futurity- to frame network models for both the American radical media movements (Ant Farm and Radical Software) and the Italian autonomous radio movement (Radio Alice).  Positioned in the context of a genealogy of network topologies, these radical media networks provide case studies for the potentials of speculative modeling practices towards mapping alternative futures.  They also reveal the enduring problem of noise: the tensions, rents, and erasures in attempts to visualize the complex and contradictory topography of any social graph. 
+
+[maybe a sentence on how these are precursors to conceptualizing internet, web networks; transition from past- to- present with web as social network form]
+
+Following network theorist Tiziana Terranova, we suggest that contemporary internet network models derived from graph theory and based on the diagrammatic “node” and “edge” deploy economic reductions of society that re-inscribe capitalist logic. Rather than giving up on the relationality opened up by the network form, we will focus on the notion of the hypersocial, the tactics of culture jamming, and the value of creating cultural fiction through imagining network diagrams based on past, and possible future moments of radical connection. We end with the following questions— what role does modeling play in our participation in a “social network”? How can a practice of modeling futurity offer us insight into our present social condition and offer potential for speculating on alternative networked arrangements? 
+
 
 *Note: Panels should follow a moderator / discussion format, with possible participation from the audience.*  
 
