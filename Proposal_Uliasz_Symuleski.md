@@ -20,7 +20,7 @@ Replace sample info between [brackets] with your own!
 
 [https://profile-picture.jpg]  
 
-**Max Symuleski** is a PhD Candidate in the Computational Media, Arts & Cultures program at Duke University.  Their dissertation project Working Freedom: Visual and Material Cultures of Maintenance NYC, 1974-1990 develops a media theory of maintenance through an exploration of art and political economy in New York City during the period of the urban crisis.  Max’s background is in visual arts, art history and theory, and they are broadly interested in the political aesthetics of maintenance in environmental and technical systems, from the modeling of climates to the repair of material infrastructures to the moderation digital social networks.  Max received an MA in historical studies from the New School for Social Research and repairs computers in their free time.  
+**Max Symuleski** is a PhD Candidate in the Computational Media, Arts & Cultures program at Duke University.  Their dissertation project "Working Freedom: Visual and Material Cultures of Maintenance NYC, 1974-1990" develops a media theory of maintenance through an exploration of visual culture and political economy in New York City during the period of the urban crisis.  Max’s background is in visual arts, art history and theory, and they are broadly interested in the political aesthetics of maintenance in environmental and technical systems, from the modeling of climates to the repair of material infrastructures to the moderation digital social networks.  Max received an MA in historical studies from the New School for Social Research and repairs computers in their free time.  
 
 [https://mjsymuleski.com/images/maxsym_headshot.jpg]
 
